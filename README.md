@@ -1,2 +1,2 @@
 # Daily_Planner
-This is a small application that automatically creates tasks
+This is a small application that automatically creates daily tasks.
